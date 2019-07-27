@@ -1,4 +1,4 @@
-# Best-Classifier-ML
+# Best Loan Classifier Project using ML
 
 A loan classifier is built using machine lerning algorithms that include
 - KNN
@@ -10,3 +10,6 @@ The accuracy of all the models was calculated using the various metrics includin
 - Jaccard score
 - F1 score
 - Log Loss
+
+
+* The project is part of 
