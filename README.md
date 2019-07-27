@@ -1,2 +1,5 @@
 # Best-Classifier-ML
-Machine Learning Classification project (Coursera ML Project)
+
+A loan classifier is built using machine lerning algorithms
+- KNN
+- Decision Trees
