@@ -11,5 +11,3 @@ The accuracy of all the models was calculated using the various metrics includin
 - F1 score
 - Log Loss
 
-
-* The project is part of 
